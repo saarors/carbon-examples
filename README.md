@@ -10,3 +10,5 @@ Install carbon from [https://github.com/carbon-language/carbon-lang](https://git
 
 To build the examples run `sh build.sh`
 
+## License
+MIT
