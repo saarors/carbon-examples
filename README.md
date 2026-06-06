@@ -8,14 +8,10 @@ Install carbon from [https://github.com/carbon-language/carbon-lang](https://git
 
 ## Test
 
-To build the examples run `sh build.sh`
+To build the examples run `sh build.sh` 
 
 ## License
 MIT
-
-
-
-
 <br />
 
 `saarors😏`
